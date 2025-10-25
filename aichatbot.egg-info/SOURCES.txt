@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+aichatbot.egg-info/PKG-INFO
+aichatbot.egg-info/SOURCES.txt
+aichatbot.egg-info/dependency_links.txt
+aichatbot.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
